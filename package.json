@@ -2,11 +2,11 @@
   "name": "react-mobx-realworld-example-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react-mobx.realworld.io",
+  "homepage": "https://qasa1.github.io/Chatting-Application---React",
   "license": "MIT",
   "devDependencies": {
     "custom-react-scripts": "0.2.0",
-    "gh-pages": "^1.0.0"
+    "gh-pages": "^1.2.0"
   },
   "dependencies": {
     "history": "4.7.2",
